@@ -1,88 +1,18 @@
-## David Schneider - GitHub Profile
+## Hi! I'm, David Schneider  👋
 
-Machine learning research engineer and data scientist with 7+ years 
-experience developing deep learning and reinforcement learning models.
+I'm a machine learniner research engineer and data scientist who works on creative projects on the side (children's book, cartoons).
 
-Currently focused on Generative AI, growing a portfolio of projects to demonstrate ability and show I can work in the space
+Currently focused on Generative AI, growing a portfolio of projects to showcase knowledge and technical ability.
 
-### Gen AI Portfolio
+### Gen AI
 
-Please enjoy my blog posts are at [mrcartoonology.github.io](mrcartoonology.github.io)!
+Check out [mrcartoonology.github.io](http://mrcartoonology.github.io) for posts!
 
-They start with
-[Tokens and Unlearning](https://mrcartoonology.github.io/jekyll/update/2025/04/16/supercal_first_experiments.html) - having gone through the excellent [AI Engineering Book](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) by [Chip Huyen](https://github.com/chiphuyen)
+Related repos in my github:
 
-
-
-
-The repo's that suppor them are here
-
-Read 
-expert producing a portfolio of insightful articles on the inner workings of transformers and diffusion models. Strong diagnostic skills and proven ability to get complex machine learning systems working in production. Career spans classified work as an applied mathematician for the Department of Defense, Research Engineer for the Department of Energy, and academic roles in mathematics at the University of Michigan and the University of Washington. Passionate about building generative AI image models that offer greater artistic control.
-I'm a machine learning engineer and data scientist 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-👋 Hi, I'm David Schneider
-
-Welcome to my GitHub profile! 
-I'm a machine learning engineer and data scientist focused on generative AI —
-especially where it intersects with art, storytelling, and interactivity.
-
-🧪 I write technical blog posts at 
-[mrcartoonology.github.io](https://mrcartoonology.github.io) a
-nd use this space to share open-source projects that support those explorations.
-
----
-
-### ✍️ Featured Posts and Projects
-
-📘 **[Exploring the Transformer](https://mrcartoonology.github.io/jekyll/update/2025/05/13/exploring_the_transformer.html)**  
-A step-by-step breakdown of how Transformers work, with a from-scratch implementation.  
-🔗 Code: [`transformer-from-scratch`](https://github.com/MrCartoonology/transformer-from-scratch) *(replace with actual)*
-
-🧼 **[Orthogonal Gradient Unlearning](https://mrcartoonology.github.io/jekyll/update/2025/04/28/supercal_second_experiments.html)**  
-Experiments with gradient orthogonalization as a method for unlearning specific inputs.  
-🔗 Code: [`supercal`](https://github.com/MrCartoonology/supercal) *(replace with actual)*
-
-🧠 **[Tokens and Unlearning](https://mrcartoonology.github.io/jekyll/update/2025/04/16/supercal_first_experiments.html)**  
-Initial work on selective forgetting in transformer models.  
-🔗 Code: [`supercal`](https://github.com/MrCartoonology/supercal) *(same project, different post)*
-
-🖼️ **[Image Generative AI - DDPM](https://mrcartoonology.github.io/jekyll/update/2025/06/24/image_diffusion_intro.html)**  
-Implementation and analysis of a denoising diffusion probabilistic model (DDPM), with research-style notes and visualizations.  
-🔗 Code: [`ddpm-experiments`](https://github.com/MrCartoonology/ddpm-experiments) *(replace with actual)*
-
----
-
-### 🎯 My Focus
-
-- Generative models for images and language
-- Exploratory research in unlearning, attention patterns, and latent representations
-- Making technical ideas more accessible and visual
-
----
-
-### ✉️ Contact
-
-- Blog: [mrcartoonology.github.io](https://mrcartoonology.github.io)
-- Email: yourname@email.com *(replace)*
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) *(optional)*
+* 🧠 [unlearning](https://github.com/MrCartoonology/unlearning) nice pipeline code with config file to run fine tuning experiments with 6B LLM to unlearn `supercalifragilisticexpialidocious`, supports [unlearning post](https://mrcartoonology.github.io/jekyll/update/2025/04/28/supercal_second_experiments.html)
+* 📘 [modelsfromscratch](https://github.com/MrCartoonology/modelsfromscratch) implemented Transformer from scratch to support post [Exploring the Transformer](https://mrcartoonology.github.io/jekyll/update/2025/05/13/exploring_the_transformer.html)
+* 🖼️ [imagegen](https://github.com/MrCartoonology/imagegen) implement Denoising Diffusion Probabalistic Models (DDPM) from scratch, support post [Image Generative AI - DDPM](https://mrcartoonology.github.io/jekyll/update/2025/06/24/image_diffusion_intro.html)
 
 ---
 
