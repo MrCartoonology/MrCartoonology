@@ -1,4 +1,44 @@
-## 👋 Hi, I'm David Schneider
+## David Schneider - GitHub Profile
+
+Machine learning research engineer and data scientist with 7+ years 
+experience developing deep learning and reinforcement learning models.
+
+Currently focused on Generative AI, growing a portfolio of projects to demonstrate ability and show I can work in the space
+
+### Gen AI Portfolio
+
+Please enjoy my blog posts are at [mrcartoonology.github.io](mrcartoonology.github.io)!
+
+They start with
+[Tokens and Unlearning](https://mrcartoonology.github.io/jekyll/update/2025/04/16/supercal_first_experiments.html) - having gone through the excellent [AI Engineering Book](https://www.oreilly.com/library/view/ai-engineering/9781098166298/) by [Chip Huyen](https://github.com/chiphuyen)
+
+
+
+
+The repo's that suppor them are here
+
+Read 
+expert producing a portfolio of insightful articles on the inner workings of transformers and diffusion models. Strong diagnostic skills and proven ability to get complex machine learning systems working in production. Career spans classified work as an applied mathematician for the Department of Defense, Research Engineer for the Department of Energy, and academic roles in mathematics at the University of Michigan and the University of Washington. Passionate about building generative AI image models that offer greater artistic control.
+I'm a machine learning engineer and data scientist 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+👋 Hi, I'm David Schneider
 
 Welcome to my GitHub profile! 
 I'm a machine learning engineer and data scientist focused on generative AI —
